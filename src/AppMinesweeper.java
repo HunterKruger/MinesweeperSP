@@ -8,15 +8,11 @@ public class AppMinesweeper extends JFrame {
     public static final String HOSTNAME = "localhost";
     public static final String PSEUDO = "pseudo";
 
-
-
     private MineField mineField = new MineField("EASY");
     private int numMineDiscovered = 0;
     private IhmMinesweeper ihmMinesweeper;
     private boolean started = false;
     private boolean lost = false;
-
-
 
     public void resetNumMineDiscovered() {
         this.numMineDiscovered = 0;

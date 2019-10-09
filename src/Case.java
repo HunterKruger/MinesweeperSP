@@ -100,13 +100,12 @@ public class Case extends JPanel implements MouseListener {
 
             if (app.getMineField().isMine(x, y)) {
                 app.getIhmMinesweeper().getTime().stopCounter();
-                Icon binLadin = new ImageIcon("img/binLadin.jpeg");
+                Icon noob = new ImageIcon("img/noob.png");
                 playMusic();
-                JOptionPane.showMessageDialog(null, "Allah Akbar!", "NOOB", 1, binLadin);
+                JOptionPane.showMessageDialog(null, "You lose, next time!", "NOOB", 1, noob);
                 app.setLost(true);
                 app.newgame();
             }
-
         }
 
         //win

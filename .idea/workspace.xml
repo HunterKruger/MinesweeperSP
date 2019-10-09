@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d47ae2d-ea4c-4a4b-8a15-4e82ca02b8b3" name="Default Changelist" comment="" />
+    <list default="true" id="4d47ae2d-ea4c-4a4b-8a15-4e82ca02b8b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/noob.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/binLadin.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MineSweeperSP/ActionMinesweeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MineSweeperSP/ActionMinesweeper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MineSweeperSP/AppMinesweeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MineSweeperSP/AppMinesweeper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MineSweeperSP/Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MineSweeperSP/Case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MineSweeperSP/IhmMinesweeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MineSweeperSP/IhmMinesweeper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppMinesweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppMinesweeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IhmMinesweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IhmMinesweeper.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +26,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Rekk7C6ozZyjhNMxaKOeLrfZAX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -99,11 +117,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570035088581</updated>
-      <workItem from="1570035091973" duration="812000" />
+      <workItem from="1570035091973" duration="1140000" />
+      <workItem from="1570470012997" duration="449000" />
+      <workItem from="1570650941901" duration="1934000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

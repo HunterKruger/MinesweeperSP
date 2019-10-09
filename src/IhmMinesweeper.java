@@ -9,9 +9,6 @@ public class IhmMinesweeper extends JPanel {
 
     private Case[][] tabCases;
     private Counter counter;
-    private JTextField hostnameField = new JTextField(AppMinesweeper.HOSTNAME, 5);
-    private JTextField portField = new JTextField(String.valueOf(AppMinesweeper.PORT), 5);
-    private JTextField pseudoField = new JTextField(AppMinesweeper.PSEUDO, 5);
     private JTextArea messageArea = new JTextArea();
 
     public Counter getTime() {
@@ -59,8 +56,6 @@ public class IhmMinesweeper extends JPanel {
         newGame2.add(easy);
         newGame2.add(normal);
         newGame2.add(hard);
-
-        //menuPart1Item2.setEnabled(false); //disable the New game button
 
         start.add(newGame);  //new game
         start.add(newGame2);  //new game...
